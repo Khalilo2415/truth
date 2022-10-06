@@ -1,0 +1,4 @@
+"Git":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
+"Jenkins":ce1f8574ab65426aa6c686c6caeaa88c
+
+https://github.com/Khalilo2415/test.git
